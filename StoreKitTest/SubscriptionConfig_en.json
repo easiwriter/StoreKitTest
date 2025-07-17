@@ -1,0 +1,44 @@
+{
+  "title": "Welcome to StoreKitTest",
+  "subtitle": "Choose a subscription",
+  "trialText": "First month free",
+  "featureSections": [
+    {
+      "heading": "Unlock all premium features:",
+      "features": [
+        "Lifetime features",
+        "Subscribable features"
+      ]
+    }
+  ],
+  "productGroups": [
+    {
+      "heading": "Purchase Options",
+      "layout": "vertical",
+      "products": [
+        {
+          "productIDs": ["com.appworks.StoreKitTest_IAP"],
+          "titleKey": null,
+          "titleSource": "storeProduct",
+          "descriptionKey": null,
+          "descriptionSource": "storeProduct"
+        },
+        {
+          "productIDs": ["com.appworks.StoreKitTest_Annual"],
+          "titleKey": null,
+          "titleSource": "storeProduct",
+          "descriptionKey": null,
+          "descriptionSource": "storeProduct"
+        },
+        {
+          "productIDs": ["com.appworks.StoreKitTest_monthly"],
+          "titleKey": null,
+          "titleSource": "storeProduct",
+          "descriptionKey": null,
+          "descriptionSource": "storeProduct"
+        }
+      ]
+    }
+  ],
+  "showRestoreButton": true
+}

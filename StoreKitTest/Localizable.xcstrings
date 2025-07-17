@@ -1,0 +1,268 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "duration_day" : {
+      "comment" : "Billing duration: day",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "string",
+            "value" : "day"
+          }
+        }
+      }
+    },
+    "duration_month" : {
+      "comment" : "Billing duration: month",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "string",
+            "value" : "month"
+          }
+        }
+      }
+    },
+    "duration_week" : {
+      "comment" : "Billing duration: week",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "string",
+            "value" : "week"
+          }
+        }
+      }
+    },
+    "duration_year" : {
+      "comment" : "Billing duration: year",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "string",
+            "value" : "year"
+          }
+        }
+      }
+    },
+    "feature_export" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Export data as PDF or CSV"
+          }
+        }
+      }
+    },
+    "feature_fuel_tracking" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Track fuel, service, and expenses for your vehicles"
+          }
+        }
+      }
+    },
+    "feature_list_title" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unlock all premium features:"
+          }
+        }
+      }
+    },
+    "feature_reminders" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Set reminders for maintenance"
+          }
+        }
+      }
+    },
+    "feature_sync" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sync across devices with iCloud"
+          }
+        }
+      }
+    },
+    "feature_trip_logs" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Add trip logs and diagnostic codes"
+          }
+        }
+      }
+    },
+    "free_trial_format" : {
+      "comment" : "e.g. Free for 1 month",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "string",
+            "value" : "Free for %@ %@"
+          }
+        }
+      }
+    },
+    "Hello, world!" : {
+
+    },
+    "loading_products_message" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loading subscription options..."
+          }
+        }
+      }
+    },
+    "monthly_price_button" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "$2.99/month"
+          }
+        }
+      }
+    },
+    "price_with_duration" : {
+      "comment" : "e.g. $2.99 per month",
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "string",
+            "value" : "%@ per %@"
+          }
+        }
+      }
+    },
+    "purchase_error_message" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Something went wrong. Please try again."
+          }
+        }
+      }
+    },
+    "purchase_restore_message" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your subscription has been restored."
+          }
+        }
+      }
+    },
+    "purchase_success_message" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Thank you for subscribing!"
+          }
+        }
+      }
+    },
+    "restore_button" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Restore Purchase"
+          }
+        }
+      }
+    },
+    "subscribe_button" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Subscribe"
+          }
+        }
+      }
+    },
+    "subscription_subtitle" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Choose a subscription"
+          }
+        }
+      }
+    },
+    "subscription_title" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Welcome to VroomLog"
+          }
+        }
+      }
+    },
+    "subscription_trial" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "First month free"
+          }
+        }
+      }
+    },
+    "yearly_price_button" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "$24.99/year"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
