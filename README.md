@@ -2,6 +2,10 @@
 
 A sample Xcode project demonstrating how to implement and test StoreKit 2 subscriptions using SwiftUI. Includes a StoreKit configuration file for local testing, subscription UI, and mock purchase flows.
 
+# How to get the StoreKitManager
+
+You can buy the StoreKitManager package at https://9557279019645.gumroad.com/l/vlsafr
+
 ## 🚀 Features
 
 - StoreKit 2 integration
