@@ -15,7 +15,8 @@ A sample Xcode project demonstrating how to implement and test StoreKit 2 subscr
 
 ## 📦 Requirements
 
-- Xcode 18 or later
+- Xcode 16 or later
+- IOS 18+
 - macOS Ventura or later
 - Swift 5.9+
 - Apple Developer account (for running on a real device)
