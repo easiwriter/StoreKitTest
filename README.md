@@ -98,4 +98,4 @@ This project is available under the MIT License. See [LICENSE](LICENSE) for deta
 
 ## 🙋‍♂️ Questions?
 
-If you have any questions or suggestions, visit https://appworks.pro/support/
+If you have any questions or suggestions, feel free to [open an issue](https://github.com/your-username/StoreKitTest/issues) or submit a pull request.

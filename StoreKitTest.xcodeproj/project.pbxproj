@@ -8,7 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		D7B60DCB2E28F08000ECD955 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = D7B60DCA2E28F08000ECD955 /* README.md */; };
-		D7CD72B22E2A92A0005D1D72 /* StoreKitManager in Frameworks */ = {isa = PBXBuildFile; productRef = D7CD72B12E2A92A0005D1D72 /* StoreKitManager */; };
+		D7F538A52DD9CFEC006A2364 /* StoreKitManager in Frameworks */ = {isa = PBXBuildFile; productRef = D7F538A42DD9CFEC006A2364 /* StoreKitManager */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,7 +42,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7CD72B22E2A92A0005D1D72 /* StoreKitManager in Frameworks */,
+				D7F538A52DD9CFEC006A2364 /* StoreKitManager in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -86,7 +86,7 @@
 			);
 			name = StoreKitTest;
 			packageProductDependencies = (
-				D7CD72B12E2A92A0005D1D72 /* StoreKitManager */,
+				D7F538A42DD9CFEC006A2364 /* StoreKitManager */,
 			);
 			productName = StoreKitTest;
 			productReference = D7F5367A2DD9B992006A2364 /* StoreKitTest.app */;
@@ -117,7 +117,7 @@
 			mainGroup = D7F536712DD9B992006A2364;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				D7CD72B02E2A92A0005D1D72 /* XCLocalSwiftPackageReference "../StoreKitManager" */,
+				D7F538A32DD9CFEC006A2364 /* XCRemoteSwiftPackageReference "StoreKitManager" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = D7F5367B2DD9B992006A2364 /* Products */;
@@ -351,16 +351,21 @@
 		};
 /* End XCConfigurationList section */
 
-/* Begin XCLocalSwiftPackageReference section */
-		D7CD72B02E2A92A0005D1D72 /* XCLocalSwiftPackageReference "../StoreKitManager" */ = {
-			isa = XCLocalSwiftPackageReference;
-			relativePath = ../StoreKitManager;
+/* Begin XCRemoteSwiftPackageReference section */
+		D7F538A32DD9CFEC006A2364 /* XCRemoteSwiftPackageReference "StoreKitManager" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/easiwriter/StoreKitManager";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
 		};
-/* End XCLocalSwiftPackageReference section */
+/* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		D7CD72B12E2A92A0005D1D72 /* StoreKitManager */ = {
+		D7F538A42DD9CFEC006A2364 /* StoreKitManager */ = {
 			isa = XCSwiftPackageProductDependency;
+			package = D7F538A32DD9CFEC006A2364 /* XCRemoteSwiftPackageReference "StoreKitManager" */;
 			productName = StoreKitManager;
 		};
 /* End XCSwiftPackageProductDependency section */
