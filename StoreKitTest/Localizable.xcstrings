@@ -127,9 +127,6 @@
         }
       }
     },
-    "Hello, world!" : {
-
-    },
     "loading_products_message" : {
       "extractionState" : "stale",
       "localizations" : {
@@ -207,6 +204,12 @@
           }
         }
       }
+    },
+    "StoreKitManager Demo" : {
+
+    },
+    "Subscribe" : {
+
     },
     "subscribe_button" : {
       "extractionState" : "stale",

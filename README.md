@@ -6,6 +6,19 @@ A sample Xcode project demonstrating how to implement and test StoreKit 2 subscr
 
 You can buy the StoreKitManager package at https://9557279019645.gumroad.com/l/vlsafr
 
+## To install `StoreKitManager` in your Xcode project:
+
+1. Unzip the downloaded file
+2. Move the folder to a permanent location
+3. In Xcode, go to **File > Add Packages…**
+4. Click **“Add Local…”** in the top-right corner
+5. Select the folder that contains `Package.swift`
+6. Import it in your code:
+
+```swift
+import StoreKitManager
+⚠️ Important: Don’t delete or move the folder after adding it, or Xcode will lose the reference.
+
 ## 🚀 Features
 
 - StoreKit 2 integration
